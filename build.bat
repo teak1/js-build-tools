@@ -1,2 +1,2 @@
-node build.js
-pause
+echo %*
+node build.js %*
